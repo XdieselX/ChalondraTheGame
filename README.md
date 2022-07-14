@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/55723423/178883051-d8b90ffb-b35d-42af-96a7-c03fc7d7435b.png)
 
-## Technologies
+## 💎Technologies
 - Typescript
 - React
 - Next
