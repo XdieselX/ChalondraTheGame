@@ -11,4 +11,4 @@
 
 ## 👥Authors
 - Danilo (UI/UX, Developer)
-- <a href="https://github.com/GiovanneMika">Giovanne</a> (Assistant)
+- <a href="https://github.com/GiovanneMika" target="_blank">Giovanne</a> (Assistant)
