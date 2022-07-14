@@ -1,6 +1,7 @@
 # <p align="center">🎲 RoyaleCasino 🎰</p>
 <p align="center">
-  <a href="#technologies">Technologies</a>
+  <a href="#technologies">Technologies</a> •
+  <a href="#authors">Authors</a>
 </p>
 
 <p align="center">Project in construction... 🚧</p>
