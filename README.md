@@ -12,11 +12,13 @@
 - Typescript
 - React
 - Next
+- NextAuth
 - Tailwind
 - Figma
 - MySql
 - Prisma
 - Node
+- Strapi
 
 ## 👥Authors
 - Danilo (UI/UX Designer, Developer)
