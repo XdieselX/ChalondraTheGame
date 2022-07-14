@@ -1,1 +1,1 @@
-# RoyaleCasino
+<p align="center"># RoyaleCasino</p>
