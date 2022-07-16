@@ -26,13 +26,13 @@ export default function Login() {
               <button className={`${css.googleLogin} flex justify-center py-[11px] mt-[40px] bg-white font-bold text-[#2A313B] text-[16px] border-googleLogin`}>
                 <Image src={googleLogo} alt="" />
                 <p className="ml-[33px]">
-                  Entrar com Google
+                  Sign in with Google
                 </p>
               </button>
 
               <Ou />
 
-              <p className="font-bold text-[16px] text-[#E0E0E0]">Entre com uma conta existente</p>
+              <p className="font-bold text-[16px] text-[#E0E0E0]">Sign in with an existing account</p>
 
               <Input type="text" value={email} setValue={setEmail} />
               <Input type="password" value={password} setValue={setPassword} />
@@ -41,10 +41,10 @@ export default function Login() {
                 onClick={handleLogin}
                 className={`${css.buttonLogin} bg-[#482BD9] py-[13px] text-white font-bold shadow-button`}
               >
-                Entrar
+                Sign in
               </button>
-              <p className="text-[#E0E0E0] font-bold text-[14px]">Não possui uma conta?
-                <Link href="register"><a className="text-[#B6ABED]"> Crie uma aqui</a></Link>
+              <p className="text-[#E0E0E0] font-bold text-[14px]">Do not have an account?
+                <Link href="register"><a className="text-[#B6ABED]"> Register</a></Link>
               </p>
             </div>
           </div>
